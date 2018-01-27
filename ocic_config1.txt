@@ -1,0 +1,11 @@
+[AUTHENTICATE]
+iaasHost=api-z16.compute.em2.oraclecloud.com
+paasHost=dbcs.emea.oraclecloud.com
+paasHostUS=https://dbaas.oraclecloud.com/
+identityDomain=<IDENTITY DOMAIN>
+container=<CONTAINER>
+user=<cloud.admin>
+password=<PASSWORD>
+
+[OTHER]
+session=None
